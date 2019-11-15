@@ -45,7 +45,7 @@ public class CompanyPage_Test extends TestBase {
 	public void login() {
 		login_Credentials();
 		
-}
+}  
 	@Test
 	public void CompanyPageTitleTest(){
 		String title =cp.validateCompanyPageTitle();
